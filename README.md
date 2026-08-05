@@ -45,13 +45,6 @@ I enjoy building scalable web applications using modern JavaScript technologies.
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prince34Q1&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prince34Q1&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 ## 🚀 Featured Projects
 
 ### 🏡 WanderLust – Vacation Rental Platform
