@@ -4,7 +4,6 @@
 
 I enjoy building scalable web applications using modern JavaScript technologies. I have experience building full-stack applications with React, Node.js, Express.js, and MongoDB. I also enjoy solving Data Structures & Algorithms problems using Java.
 
-- 💻 Solved **679+ LeetCode** problems
 - 🚀 Built **WanderLust**, a full-stack vacation rental platform
 - 🌱 Currently exploring modern web technologies and building real-world projects
 - 📫 Reach me at **princepatel15279@gmail.com**
@@ -55,11 +54,6 @@ A full-stack web application where users can explore, create, edit, and review v
 
 - 🔗 GitHub: https://github.com/Prince34Q1/Major1
 - 🌐 Live Demo: https://major1-1778.onrender.com/listings
-
- ## 🏆 Coding Profiles
-
-💛 **LeetCode:** 679+ Problems Solved
-- 🔗 Profile: https://leetcode.com/u/patel18prince/
 
  ## 📫 Connect With Me
 
