@@ -1,6 +1,6 @@
 # Hi, I'm Prince Patel
 
-### Full Stack Developer from India 🇮🇳
+### Full Stack Developer from India
 
 I enjoy building scalable web applications using modern JavaScript technologies. I have experience building full-stack applications with React, Node.js, Express.js, and MongoDB. I also enjoy solving Data Structures & Algorithms problems using Java.
 
